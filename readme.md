@@ -71,7 +71,9 @@ See your summary displayed instantly!
 Example URLs:
 
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
 or
+
 https://en.wikipedia.org/wiki/Natural_language_processing
 
 
