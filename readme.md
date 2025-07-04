@@ -36,6 +36,7 @@ pip install -r requirements.txt
 Here’s the minimal requirements list:
 
 ```txt
+langchain
 streamlit
 python-dotenv
 langchain
@@ -54,6 +55,7 @@ HF_TOKEN=your_hugging_face_api_token_here
 
 
 🌐 Running the App
+
 Run your Streamlit app locally:
 
 streamlit run app.py
