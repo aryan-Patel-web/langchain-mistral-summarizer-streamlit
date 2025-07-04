@@ -46,6 +46,7 @@ validators
 
 
 🔑 Environment Variables
+
 Create a .env file in the root of your repo:
 
 
@@ -77,7 +78,9 @@ https://en.wikipedia.org/wiki/Natural_language_processing
 👨‍💻 Author
 Aryan Patel
 
+
 🌟 Future Enhancements
+
 Save summaries to PDF
 
 Support chunked summaries for long transcripts
